@@ -1,7 +1,3 @@
-# This is the "Practices" folder.
-
-- Practice 1
-
 Test the Law Of Large Numbers for N random normally distributed numbers with mean = 0, stdev=1:
   
   Create an R script that will count how many of these numbers fall between -1 and 1 and divide
@@ -29,5 +25,3 @@ for(i in rnorm(n,mean=0,sd=1)){
 
 result<-c/n
 result
-
-- Practice 2
