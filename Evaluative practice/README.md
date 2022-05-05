@@ -1,12 +1,11 @@
 # Evaluation Unit 2
 
 ### We assign the graphics library, and open the file that we will analyze called Project data.
-
-library(ggplot2)
+    library(ggplot2)
 
 ### Read doc "Project-Data"
-movies <- read.csv(file.choose())
-movies
+    movies <- read.csv(file.choose())
+    movies
 
 ### Filters, we filter the information (data) that we want to obtain, in this case the genre and the production studies.
     movies<-movies[movies$Studio=="Buena Vista Studios"|movies$Studio=="Fox"|movies$Studio=="Paramount Pictures"|movies$Studio=="Sony"|movies$Studio=="Universal"|movies$Studio=="WB",]

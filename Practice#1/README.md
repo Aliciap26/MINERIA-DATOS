@@ -8,20 +8,21 @@ the second that is a graph in facets and
 the third a graph that tells us something statistical like the distribution of the data and
 containing the themes layer.
 
-cereal <- read.csv(file.choose())
+## Read Doc "cereal(acomodado)"
+    cereal <- read.csv(file.choose())
 
-head(cereal)
+    head(cereal)
 
-library(ggplot2)
+    library(ggplot2)
 
 ## plot dot scatter plot
-ggplot(cereal, aes(x=calories, y=protein, color=name)) + geom_point()
+    ggplot(cereal, aes(x=calories, y=protein, color=name)) + geom_point()
 
 ## facet scatterplot
-facetas <- ggplot(cereal, aes(x=calories, y=fat, color=name))
+    facetas <- ggplot(cereal, aes(x=calories, y=fat, color=name))
 
-facetas + geom_point() + facet_grid(name~.)
+    facetas + geom_point() + facet_grid(name~.)
 
 ## distribution graph
 
-ggplot(cereal, aes(x= fat, y = calories))+ geom_point()+ geom_point(aes(color= protein ))+ theme_grey ()
+    ggplot(cereal, aes(x= fat, y = calories))+ geom_point()+ geom_point(aes(color= protein ))+ theme_grey ()
