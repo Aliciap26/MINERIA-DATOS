@@ -1,9 +1,12 @@
 # MINERIA-DATOS
-
+ unit_3
+# **Unit # 3 ** 
 
 ## Practica #1
 [Link PDF](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/_Pr%C3%A1ctica%201%20-%20Unidad%203.pdf)
+
 [Link R](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/practice%231)
+
  ~~~
  ##We will import the file to R
 ##Importing the dataset
