@@ -42,4 +42,31 @@
                     color = 'blue') + ggtitle('Salary vs Experience (Test Set)') + xlab('Years of experience') + ylab('Salary')
  ~~~
  
-                    
+## Practica #2
+[Link PDF](   )
+[Link R](   )
+~~~ 
+
+~~~
+
+## Practica #3
+[Link PDF](   )
+[Link R](   )
+~~~ 
+
+~~~
+
+
+## Practica #4
+[Link PDF](   )
+[Link R](   )
+~~~ 
+
+~~~
+
+## Practica evaluatoria
+[Link PDF](   )
+[Link R](   )
+~~~ 
+
+~~~
