@@ -43,6 +43,7 @@
  ~~~
  ## Practica #2
 [Link PDF](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Pr%C3%A1ctica-2-U3.pdf)
+
 [Link R](   )
                     
 ~~~
@@ -53,6 +54,7 @@
 
 ## Practica #3
 [Link PDF](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Pr%C3%A1ctica-2-U3.pdf)
+
 [Link R](   )
 
 ~~~
@@ -68,7 +70,8 @@
 ~~~
 
 ## Practica evaluatoria
-[Link PDF](   )
+[Link DOC](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Unidad_3_Mineria_De_Datos.docx )
+
 [Link R](   )
 ~~~ 
 
