@@ -41,24 +41,27 @@
             ggplot() + geom_point(aes(x=test_set$YearsExperience, y=test_set$Salary), color = 'red') + geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set)),
                     color = 'blue') + ggtitle('Salary vs Experience (Test Set)') + xlab('Years of experience') + ylab('Salary')
  ~~~
- 
-## Practica #2
-[Link PDF](   )
+ ## Practica #2
+[Link PDF](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Pr%C3%A1ctica-2-U3.pdf)
 [Link R](   )
-~~~ 
+                    
+~~~
 
 ~~~
 
-## Practica #3
-[Link PDF](   )
-[Link R](   )
-~~~ 
 
+
+## Practica #3
+[Link PDF](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Pr%C3%A1ctica-2-U3.pdf)
+[Link R](   )
+
+~~~
 ~~~
 
 
 ## Practica #4
 [Link PDF](   )
+
 [Link R](   )
 ~~~ 
 
@@ -70,3 +73,6 @@
 ~~~ 
 
 ~~~
+
+
+
