@@ -1,5 +1,6 @@
 # MINERIA-DATOS
  
+ Unit-3
 # Unit # 3 
 
 ## Practica #1
@@ -334,3 +335,14 @@ points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ## Result of the Evaluative practice
 ![](./Evaluation/result.png)
 
+=======
+ Unit 1
+
+- [Evaluation](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-1/Evaluation/README.md)
+
+- [Homeworks](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-1/Homeworks/README.md)
+
+- [Practices](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-1/Practices/README.md)
+
+- [Research](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-1/Research/README.md)
+ development
