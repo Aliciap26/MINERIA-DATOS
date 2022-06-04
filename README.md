@@ -127,6 +127,9 @@ backwardElimination(training_set, SL)
 ~~~
 
 ## Results
+![image](https://user-images.githubusercontent.com/44456885/171971935-3b0202d4-23a0-4ac4-9f88-cd302ed8731e.png)
+![image](https://user-images.githubusercontent.com/44456885/171971943-06b279d8-2842-4b8e-8f2e-c39481a49e98.png)
+![image](https://user-images.githubusercontent.com/44456885/171971950-eca886a3-4ba7-4dc8-b788-3229c9952e8c.png)
 
 
 ## Practica #3
