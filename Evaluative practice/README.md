@@ -24,3 +24,7 @@
 
 ### Graphs/colors date, We define the color of the points and the size.
     GGgraph + xlab("Genre") + ylab("Groos % US") + ggtitle("Domestic Gross % by Genre")+ theme(axis.title.x = element_text(color = "Purple", size=14), axis.title.y = element_text(color = "Purple", size=14), plot.title = element_text(color = "Black", size=18,hjust=0.5))
+    
+    
+    
+   ![image](https://user-images.githubusercontent.com/44456885/171971615-50befaf6-a9e5-44fa-80d7-696492df1355.png)
