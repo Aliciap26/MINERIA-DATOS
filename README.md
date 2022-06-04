@@ -42,6 +42,14 @@
             ggplot() + geom_point(aes(x=test_set$YearsExperience, y=test_set$Salary), color = 'red') + geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set)),
                     color = 'blue') + ggtitle('Salary vs Experience (Test Set)') + xlab('Years of experience') + ylab('Salary')
  ~~~
+ 
+ ##Results
+
+![image](https://user-images.githubusercontent.com/44456885/171971744-ca326e9b-2e6b-4332-a00f-19d5dcb017ab.png)
+![image](https://user-images.githubusercontent.com/44456885/171971787-6593a925-4055-4b03-b00b-14130709c8b9.png)
+
+
+
  ## Practica #2
 [Link PDF](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Pr%C3%A1ctica-2-U3.pdf)
 
@@ -118,6 +126,7 @@ training_set
 backwardElimination(training_set, SL)
 ~~~
 
+## Results
 
 
 ## Practica #3
