@@ -28,3 +28,17 @@
     
     
    ![image](https://user-images.githubusercontent.com/44456885/171971615-50befaf6-a9e5-44fa-80d7-696492df1355.png)
+## Conclusions
+
+- Alicia Pérez: We had a bit of difficulty knowing which was the
+correct filter to obtain the graph, as similar as possible to the one
+we were asked to match, after investigating, we managed to have a
+similar one, in particular, it is interesting to me as a data can make
+the graph look very different, it makes a big difference.
+- Erwin Howard: It was really interesting to see how the graph
+changes when trying to resemble the one that was asked of us in
+the evaluation. In the end we succeeded and reinforced teamwork
+and communication, seeing my partner's points of view.
+In this practice reinforce knowledge learned in the last unit.
+
+[Link video Youtube](https://www.youtube.com/watch?v=uaQcs3C_VFc)
