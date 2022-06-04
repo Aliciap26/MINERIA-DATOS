@@ -223,6 +223,9 @@ contour(X1, X2, matrix(as.numeric(y_grid), length(X1), length(X2)), add = TRUE)
 points(grid_set, pch = '.', col = ifelse(y_grid == 1, 'springgreen3', 'tomato'))
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ~~~
+## Results
+![image](https://user-images.githubusercontent.com/44456885/171971886-0a138090-ce1a-4c76-b219-d8afcd041339.png)
+![image](https://user-images.githubusercontent.com/44456885/171971894-7b2fb660-3bed-4562-ad81-31a9b0815835.png)
 
 
 ## Practica #4
@@ -281,6 +284,9 @@ points(grid_set, pch = '.', col = ifelse(y_grid == 1,
 'springgreen3', 'tomato'))
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ~~~
+![image](https://user-images.githubusercontent.com/44456885/171971847-0eafc0fa-6f2d-4da9-8e53-3402fe1c375c.png)
+![image](https://user-images.githubusercontent.com/44456885/171971854-b7552423-f103-42e4-8d31-863453038c90.png)
+
 
 ## Practica evaluatoria
 [Link DOC](https://github.com/Aliciap26/MINERIA-DATOS/blob/Unit-3/Practices/Unidad_3_Mineria_De_Datos.docx )
