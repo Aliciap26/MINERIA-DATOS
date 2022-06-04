@@ -43,7 +43,7 @@
                     color = 'blue') + ggtitle('Salary vs Experience (Test Set)') + xlab('Years of experience') + ylab('Salary')
  ~~~
  
- ##Results
+ ## Results
 
 ![image](https://user-images.githubusercontent.com/44456885/171971744-ca326e9b-2e6b-4332-a00f-19d5dcb017ab.png)
 ![image](https://user-images.githubusercontent.com/44456885/171971787-6593a925-4055-4b03-b00b-14130709c8b9.png)
